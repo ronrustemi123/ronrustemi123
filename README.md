@@ -3,5 +3,5 @@
 Front-End Developer. Mainly working with React and currently learning PostgreSQL and Express JS.
 
 <div align="center">
-	<img width="50" src="https://skillicons.dev/icons?i=html,css,sass,js,react,materialui" alt="JavaScript" title="JavaScript"/>
+	<img  src="https://skillicons.dev/icons?i=html,css,sass,js,react,materialui" alt="JavaScript" title="JavaScript"/>
 </div>
