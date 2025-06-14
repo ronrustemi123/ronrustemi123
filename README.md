@@ -1,5 +1,6 @@
-## Hi. I am [Ron](https://ronrustemi.vercel.app/). 👋
-
+### Hi. I am [Ron](https://ronrustemi.vercel.app/). 👋
+#### 📍Tetovo, North Macedonia📍
+<br/>
 Full-Stack Developer. Mainly working with the MERN stack.
 
 <div align="left">
