@@ -1,13 +1,16 @@
-### Hi. I am [Ron](https://ronrustemi.vercel.app/). 👋
-#### 📍Tetovo, North Macedonia📍
-<br/>
-Full-Stack Developer. Mainly working with the MERN stack.
+# 👋 Hi there, I'm Ron!
 
-<div align="left">
-	<h3>Front End Stack</h2>
-	<img  src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind," alt="Skills" title="Skills"/>
-	<h3>Back End Stack</h2>
-	<img  src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,supabase" alt="Skills" title="Skills"/>
-	<h3>Tools</h3>
-	<img  src="https://skillicons.dev/icons?i=vite,git,jira" alt="Skills" title="Skills"/>
-</div>
+## 🌐 About Me
+**Full-stack JavaScript Developer** based in Tetovo, North Macedonia
+
+## 💻 Technical Proficiency
+
+- **Front-end:** React, TypeScript, NextJS, TailwindCSS
+- **Back-end:** Node.js, NestJS, Express.js
+- **Databases:** SQL (Postgres, Oracle), NoSQL (MongoDB)
+
+
+## 📞 Contact Me
+- **Portfolio:** [ronrustemi.vercel.app](https://ronrustemi.vercel.app/)
+- **LinkedIn:** [Ron Rustemi](https://www.linkedin.com/in/ronrustemi/)
+- **Email:** ronrustemii@gmail.com
