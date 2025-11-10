@@ -7,7 +7,7 @@
 
 - **Front-end:** React, TypeScript, NextJS, TailwindCSS
 - **Back-end:** Node.js, NestJS, Express.js
-- **Databases:** SQL (Postgres, Oracle), NoSQL (MongoDB)
+- **Databases:** SQL (Postgres), NoSQL (MongoDB)
 
 
 ## 📞 Contact Me
