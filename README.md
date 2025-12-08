@@ -6,8 +6,10 @@
 ## 💻 Technical Proficiency
 
 - **Front-end:** React, TypeScript, NextJS, TailwindCSS
-- **Back-end:** Node.js, NestJS, Express.js
+- **Back-end:** Node.js, Express.js
 - **Databases:** SQL (Postgres), NoSQL (MongoDB)
+- **Containerization:** Docker
+- **AWS:** EC2, ECR, CodeBuild, CI/CD Pipelines, IAM
 
 
 ## 📞 Contact Me
