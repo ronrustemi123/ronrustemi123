@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ron!
 
 ## 🌐 About Me
-**Full-stack JavaScript Developer** based in Tetovo, North Macedonia
+**Full-stack Developer** based in Tetovo, North Macedonia
 
 ## 💻 Technical Proficiency
 
